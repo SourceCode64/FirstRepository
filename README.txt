@@ -1,1 +1,1 @@
-Описание Описание
+Description Description
